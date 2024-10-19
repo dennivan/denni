@@ -1,0 +1,7 @@
+{
+    "arrowParens": "always",
+    "plugins": ["prettier-plugin-tailwindcss"],
+    "singleQuote": true,
+    "tabWidth": 4,
+    "tailwindConfig": "./tailwind.config.ts"
+}
